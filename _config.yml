@@ -1,9 +1,9 @@
 # site settings
 title: Wedge
 subtitle:
-email: 
+email:
 description: Have a wedge to break into any career path.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/wedge" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
